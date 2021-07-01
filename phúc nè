@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Bạn cho mình hỏi ',
-    introDesc: `Không hiểu sao 2 đứa trái tính trái ý nhau vậy mà yêu nhau đến tận 3 năm 🤨`,
+    introDesc: `chúng ta quen biết bao nhiu năm rồi`,
     btnIntro: 'hihi',
     title: 'Mình có thể hỏi bạn câu này ko',
     desc: ' Bạn cảm thấy bạn Phúc ra sao? ',
