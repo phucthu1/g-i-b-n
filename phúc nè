@@ -1,0 +1,16 @@
+const CONFIG = {
+    introTitle: 'Bạn cho mình hỏi ',
+    introDesc: `Không hiểu sao 2 đứa trái tính trái ý nhau vậy mà yêu nhau đến tận 3 năm 🤨`,
+    btnIntro: 'hihi',
+    title: 'Mình có thể hỏi bạn câu này ko',
+    desc: ' Bạn cảm thấy bạn Phúc ra sao? ',
+    btnYes: 'dễ mến',
+    btnNo: 'nhìn muốn đấm',
+    question:'why ',
+    btnReply: 'Trả Lời',
+    reply: 'Phúc đẹp trai, hiền lành',
+    mess: 'mình biết mà hihi:))',
+    messDesc: 'cảm ơn bạn nhiều',
+    btnAccept: 'oke',
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
