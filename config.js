@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Tại vì anh đẹp trai, 17cm, 1 tiếng hihi',
     mess: 'Anh biết mà hihi, yêu em nhiều 😍',
     messDesc: 'Em hứa sẽ nâng niu anh như công chúa 😘',
-    btnAccept: 'Dạ 😍',
+    btnAccept: 'Dạ 😍 ',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
